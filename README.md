@@ -1,2 +1,4 @@
-# avoid-enemy-unity
-A small game for Unity, written in C#
+# game-unity
+Two small games for Unity, written in C#
+
+avoid enemy && flappy bird
